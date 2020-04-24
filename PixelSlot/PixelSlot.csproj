@@ -175,6 +175,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="pixel_slot.ico" />
+    <None Include="Resources\info.png" />
     <None Include="Resources\history.png" />
     <None Include="Resources\win.wav" />
     <None Include="Resources\gold.wav" />
